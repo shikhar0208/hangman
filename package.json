@@ -1,9 +1,10 @@
 {
-  "homepage": "http://shikhar0208.github.io/Hangman-Game",
+  "homepage": "http://shikhar0208.github.io/hangman",
   "name": "hangman",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "express": "^4.17.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts": "1.1.4"
